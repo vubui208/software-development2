@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+  color: red;
+  font-weight: 500;
+}
+.aboutme {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+
+  margin-left: 35%;
+}
